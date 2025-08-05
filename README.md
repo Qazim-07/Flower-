@@ -17,7 +17,7 @@ This is a front-end mini project for a **Flower Shop** website built using **HTM
 
 ## 📸 Screenshot
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6bd87ebf-6262-4d05-a30f-6241b1395994" />
+![Uploading image.png…]()
 
 ---
 
