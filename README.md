@@ -1,4 +1,4 @@
-# 🌸 Flower - Flower Shop Website
+<img width="1913" height="977" alt="image" src="https://github.com/user-attachments/assets/a9035a63-0b08-4003-8cb3-b7cd4df5999f" /># 🌸 Flower - Flower Shop Website
 
 This is a front-end mini project for a **Flower Shop** website built using **HTML**, **CSS**, **JavaScript**, and **SCSS**. The project focuses on responsive design, beautiful UI, and basic interactivity to showcase flower products.
 
@@ -17,7 +17,7 @@ This is a front-end mini project for a **Flower Shop** website built using **HTM
 
 ## 📸 Screenshot
 
-![Uploading image.png…]()
+<img width="1919" height="974" alt="image" src="https://github.com/user-attachments/assets/106e5aca-cd7f-48ce-9fad-4a0731b50570" />
 
 ---
 
